@@ -1,5 +1,5 @@
 # Slander Biography.
-	This is NOT my Cydia repo!
+	<font>color="red">This is NOT my Cydia repo!</font>
 #
 
 <img src="CydiaIcon.png">
